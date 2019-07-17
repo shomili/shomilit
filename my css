@@ -1,0 +1,14 @@
+h1 {
+  font-size: 24px;
+  color: Indigo;
+  border: 5px solid MidnightBLue
+}
+
+#border {
+  border: 3px solid MidnightBLue;
+
+}
+
+body {
+  background-color: RosyBrown;
+}
